@@ -6,7 +6,7 @@ I am a Computational Materials Engineer and Machine Learning Researcher working 
 
 - 🎓 **Education:** B.Eng in Materials and Metallurgical Engineering (Second Class Upper Honors) from the **University of Ilorin, Nigeria**.
 - 🤖 **ML Research:** Independent Researcher specializing in **Graph Neural Networks (GNNs)** to enhance and optimize engineering material design, with a specific interest in **Aluminium (Al) alloys**.
-- 💼 **Current Role:** Building **SimsLayer** and **PHINDE-X**
+- 💼 **Current Role:** Building **SolvHive** and **PHINDE-X**
 - 🚀 **Mission:** Exploring innovative, AI-integrated solutions and sustainable manufacturing techniques for next-generation materials.
 
 ---
